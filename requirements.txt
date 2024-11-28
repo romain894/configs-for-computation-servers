@@ -1,0 +1,27 @@
+bertopic
+
+--extra-index-url https://pypi.nvidia.com
+cudf-cu12
+dask-cudf-cu12
+cuml-cu12
+cugraph-cu12
+
+cupy-cuda12x
+
+safetensors
+datashader
+adjustText
+pandas
+numpy
+
+seaborn
+matplotlib
+
+openalex-analysis
+
+tensorflow-text==2.15.*
+tf-models-official==2.15.*
+apache_beam
+tensorflow[and-cuda]
+tensorrt
+
